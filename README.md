@@ -140,7 +140,7 @@
     align="right"
   />&nbsp;
   <img 
-    src="imgs/lang/bootstarp.png"
+    src="imgs/lang/bootstrap.png"
     height="34"
     alt="Bootstrap" 
     align="right"
