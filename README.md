@@ -104,27 +104,45 @@
     align="right"
   />&nbsp;
   <img 
-    src="imgs/lang/nodejs.webp"
+    src="imgs/lang/node.png"
     height="34"
     alt="Node.js" 
     align="right"
   />&nbsp;
   <img 
-    src="imgs/lang/javascript.webp"
+    src="imgs/lang/js.png"
     height="34"
     alt="JavaScript" 
     align="right"
   />&nbsp;
   <img 
-    src="imgs/lang/tailwindcss.webp"
+    src="imgs/lang/tailwind.png"
     height="34"
     alt="Tailwind CSS" 
     align="right"
   />&nbsp;
   <img 
-    src="imgs/lang/html.webp"
+    src="imgs/lang/html.png"
     height="34"
     alt="HTML" 
+    align="right"
+  />&nbsp;
+  <img 
+    src="imgs/lang/py.webp"
+    height="34"
+    alt="Python" 
+    align="right"
+  />&nbsp;
+  <img 
+    src="imgs/lang/react.png"
+    height="34"
+    alt="React Js" 
+    align="right"
+  />&nbsp;
+  <img 
+    src="imgs/lang/bootstarp.png"
+    height="34"
+    alt="Bootstrap" 
     align="right"
   />&nbsp;
 </h2>
