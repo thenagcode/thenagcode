@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="imgs/github-header/v2.webp"
+    src="imgs/github-header/background.svg"
     alt="Hey! I am Spandan Nag."
     width="500%" 
     height="100%" 
